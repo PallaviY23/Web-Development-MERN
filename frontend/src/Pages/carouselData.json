@@ -1,0 +1,39 @@
+{
+    "slides": [
+        {
+            "src":"images/rog zephyrus.jpeg",
+            "alt":"Image1",
+            "name":"ASUS ROG Zephyrus",
+            "price":"$599.00",
+            "description": "Best Asus rog Product.."
+        },
+        {
+            "src":"images/drones.jpg",
+            "alt":"Image2",
+            "name":"DRONES",
+            "price":"$159.00",
+            "description": "Best Drone Ever.."
+        },
+        {
+            "src":"images/ipad.jpg",
+            "alt":"Image3",
+            "name":"IPAD 8 Gen",
+            "price":"$299.00",
+            "description": "Best Ipad ever"
+        },
+        {
+            "src":"images/macbook pro.jpg",
+            "alt":"Image4",
+            "name":"MACBOOK M2 Air",
+            "price":"$359.00",
+            "description": "Best Apple Product "
+        },
+        {
+            "src":"images/other drone photo.jpg",
+            "alt":"Image4",
+            "name":"NAVICPRO DroneX",
+            "price":"$179.00",
+            "description": "Best Drone Ever.."
+        }
+    ]
+}
